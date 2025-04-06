@@ -9,7 +9,7 @@ dashboard.py - моделирует дашборд географической 
 
 Для запуска приложения:  
 Клонировать репозиторий командой `git clone https://github.com/KarinaKhachatrian/GreenAtom.git`  
-Перейти в папку `GreenAtom`  
+Перейти в папку `GreenAtom` командой `cd GreenAtom`
 Ввести в терминале команду `docker-compose up --build`  
 Перейти по ссылке [http://localhost:8501](http://localhost:8501) для просмотра дашборда.  
 Для загрузки может потребоваться некоторое время.  
