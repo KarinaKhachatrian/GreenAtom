@@ -1,3 +1,4 @@
+#Тестовое задание GreenAtom
 Проект состоит из пяти файлов Python: parse.py - получает данные с FlightRadar24; db_manager.py - подключается к базе данных PostgreSQL и совершает запросы к таблицам; flight_report.py - собирает данные в единый csv-файл для отчёта о рейсах по времени; dashboard.py - моделирует дашборд географической карты с отмеченными рейсами.
 
 Дополнительные файлы - Dockerfile, docker-compose.yml и requirements.txt; при запуске кода создаётся файл отчёта flight.csv.
