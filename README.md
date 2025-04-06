@@ -5,7 +5,8 @@ db_manager.py - подключается к базе данных PostgreSQL и 
 flight_report.py - собирает данные в единый csv-файл для отчёта о рейсах по времени  
 dashboard.py - моделирует дашборд географической карты с отмеченными рейсами.  
 
-Дополнительные файлы - Dockerfile, docker-compose.yml и requirements.txt; при запуске кода создаётся файл отчёта flight.csv.  
+Дополнительные файлы - Dockerfile, docker-compose.yml и requirements.txt  
+При запуске кода создаётся файл отчёта flight.csv.  
 
 Для запуска приложения:  
 Клонировать репозиторий командой `git clone https://github.com/KarinaKhachatrian/GreenAtom.git`  
